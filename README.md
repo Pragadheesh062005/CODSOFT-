@@ -23,8 +23,5 @@ The signup flow includes:
 
 ---
 
-## 🚀 How to Use
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+
 
