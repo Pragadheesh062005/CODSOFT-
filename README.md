@@ -48,4 +48,5 @@ To create a **simple and effective signup process** that helps users quickly cre
 - How to structure a user-centric signup experience  
 
 
+<img width="1915" height="906" alt="Screenshot 2025-10-15 202355" src="https://github.com/user-attachments/assets/e0164a88-75e1-4fa0-b3ca-360c1f2bc85a" />
 
